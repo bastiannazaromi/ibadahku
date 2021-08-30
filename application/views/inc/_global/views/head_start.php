@@ -17,7 +17,3 @@
     <meta property="og:type" content="website">
     <meta property="og:url" content="<?php echo $one->og_url_site; ?>">
     <meta property="og:image" content="<?php echo $one->og_url_image; ?>">
-
-    <link rel="shortcut icon" href="<?php echo $one->assets_folder; ?>/media/favicons/favicon.png">
-    <link rel="icon" type="image/png" sizes="192x192" href="<?php echo $one->assets_folder; ?>/media/favicons/favicon-192x192.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="<?php echo $one->assets_folder; ?>/media/favicons/apple-touch-icon-180x180.png">

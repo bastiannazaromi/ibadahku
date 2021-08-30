@@ -16,9 +16,6 @@
     <meta property="og:url" content="">
     <meta property="og:image" content="">
 
-    <link rel="shortcut icon" href="<?= base_url('assets/backend/media/favicons/favicon.png') ?>">
-    <link rel="icon" type="image/png" sizes="192x192" href="<?= base_url('assets/backend/media/favicons/favicon-192x192.png') ?>">
-    <link rel="apple-touch-icon" sizes="180x180" href="<?= base_url('assets/backend/media/favicons/apple-touch-icon-180x180.png') ?>">
     <link rel="stylesheet" type="text/css" href="<?= base_url('assets/frontend/css/bootstrap.min.css') ?>">
     <link rel="stylesheet" type="text/css" href="<?= base_url('assets/frontend/css/fontawesome-all.min.css') ?>">
     <link rel="stylesheet" type="text/css" href="<?= base_url('assets/frontend/css/style.css') ?>">
