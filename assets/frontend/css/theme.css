@@ -1,0 +1,650 @@
+[class~="form-content"] input:hover,
+[class~="form-content"] input,
+[class~="form-content"] [class~="dropdown-toggle"][class~="btn-default"]:hover,
+[class~="form-content"] [class~="dropdown-toggle"][class~="btn-default"] {
+	border-left-width: 0.75pt;
+}
+[class~="website-logo-inside"] [class~="logo"],
+.website-logo .logo {
+	background-image: url("../images/logo.png");
+}
+[class~="form-content"] input[type="checkbox"]:checked + label:before,
+[class~="form-content"] input[type="radio"]:checked + label:before {
+	background: #000;
+}
+[class~="form-content"] input[type="checkbox"]:checked + label:before {
+	border-left-width: 0in;
+}
+[class~="website-logo"] [class~="logo"] img,
+.website-logo-inside img,
+[class~="website-logo-inside"] [class~="logo"] img,
+[class~="website-logo"] img {
+	width: 1.041666667in;
+}
+[class~="form-content"] [class~="page-links"] a[class~="active"]:after {
+	background-color: #2a363b;
+}
+[class~="form-content"] input[type="checkbox"]:checked + label:before {
+	border-bottom-width: 0in;
+}
+[class~="form-content"] input,
+[class~="form-content"] [class~="dropdown-toggle"][class~="btn-default"],
+[class~="form-content"] [class~="dropdown-toggle"][class~="btn-default"]:hover,
+[class~="form-content"] input:hover {
+	border-bottom-width: 0.75pt;
+}
+[class~="form-content"] label,
+[class~="img-holder"] [class~="info-holder"] h3,
+[class~="img-holder"] [class~="info-holder"] p,
+[class~="form-content"] [class~="page-links"] a,
+[class~="form-content"] h3,
+.form-content p {
+	color: #000;
+}
+[class~="form-content"] input[type="checkbox"]:checked + label:before {
+	border-right-width: 0in;
+}
+[class~="form-content"] input[type="checkbox"]:checked + label:before {
+	border-top-width: 0in;
+}
+[class~="form-content"]
+	[class~="custom-options"]
+	input[type="checkbox"]:not(:checked)
+	+ label,
+[class~="form-content"]
+	[class~="custom-options"]
+	input[type="checkbox"]:checked
+	+ label {
+	color: #606060;
+}
+[class~="form-content"] input:hover,
+[class~="form-content"] input,
+[class~="form-content"] [class~="dropdown-toggle"][class~="btn-default"],
+[class~="form-content"] input[type="checkbox"]:checked + label:before {
+	border-left-style: solid;
+}
+[class~="form-content"] input,
+[class~="form-content"] [class~="dropdown-toggle"][class~="btn-default"]:hover,
+[class~="form-content"] input:hover,
+[class~="form-content"] [class~="dropdown-toggle"][class~="btn-default"] {
+	border-right-width: 0.75pt;
+}
+.form-content p,
+[class~="form-content"] h3,
+[class~="form-content"] label {
+	text-align: left;
+}
+[class~="form-content"] input[type="checkbox"]:checked + label:before,
+[class~="form-content"] [class~="dropdown-toggle"][class~="btn-default"],
+[class~="form-content"] input,
+[class~="form-content"] input:hover {
+	border-bottom-style: solid;
+}
+[class~="form-content"]
+	[class~="custom-options"]
+	input[type="checkbox"]:not(:checked)
+	+ label {
+	background-color: #f7f7f7;
+}
+[class~="form-content"] input,
+[class~="form-content"] input:hover,
+[class~="form-content"] [class~="dropdown-toggle"][class~="btn-default"],
+[class~="form-content"] input[type="checkbox"]:checked + label:before {
+	border-right-style: solid;
+}
+[class~="form-content"] input,
+[class~="form-content"] [class~="dropdown-toggle"][class~="btn-default"],
+[class~="form-content"] input[type="checkbox"]:checked + label:before,
+[class~="form-content"] input:hover {
+	border-top-style: solid;
+}
+[class~="form-content"] input[type="checkbox"]:checked + label:before {
+	border-left-color: #000;
+}
+[class~="form-content"] input[type="checkbox"]:checked + label:before {
+	border-bottom-color: #000;
+}
+[class~="form-content"] input:hover,
+[class~="form-content"] [class~="dropdown-toggle"][class~="btn-default"],
+[class~="form-content"] input,
+[class~="form-content"] [class~="dropdown-toggle"][class~="btn-default"]:hover {
+	border-top-width: 0.75pt;
+}
+[class~="form-content"] input[type="checkbox"]:checked + label:before {
+	border-right-color: #000;
+}
+[class~="form-content"] input[type="checkbox"]:checked + label:before {
+	border-top-color: #000;
+}
+[class~="form-content"] input[type="checkbox"]:checked + label:before {
+	border-image: none;
+}
+[class~="form-content"] input[type="radio"]:checked + label:before {
+	border-left-width: 0in;
+}
+[class~="form-content"] input:hover,
+[class~="form-content"] [class~="dropdown-toggle"][class~="btn-default"]:hover {
+	border-left-color: #2a363b;
+}
+[class~="img-holder"] [class~="bg"] {
+	opacity: 1;
+}
+[class~="form-content"] input[type="radio"]:checked + label:before {
+	border-bottom-width: 0in;
+}
+[class~="form-content"] input:hover,
+[class~="form-content"] [class~="dropdown-toggle"][class~="btn-default"]:hover {
+	border-bottom-color: #2a363b;
+}
+[class~="form-content"] input[type="radio"]:checked + label:before,
+[class~="form-content"] [class~="dropdown-toggle"][class~="btn-default"]:hover {
+	border-left-style: solid;
+}
+[class~="form-content"] input:hover,
+[class~="form-content"] [class~="dropdown-toggle"][class~="btn-default"]:hover {
+	border-right-color: #2a363b;
+}
+[class~="form-content"] input[type="radio"]:checked + label:before {
+	border-right-width: 0in;
+}
+[class~="form-content"] input[type="radio"]:checked + label:before {
+	border-top-width: 0in;
+}
+[class~="website-logo"] {
+	display: inline-block;
+}
+[class~="form-content"] [class~="dropdown-toggle"][class~="btn-default"]:hover,
+[class~="form-content"] input:hover {
+	border-top-color: #2a363b;
+}
+[class~="form-content"] [class~="dropdown-toggle"][class~="btn-default"],
+[class~="form-content"] input {
+	border-left-color: rgba(0, 149, 255, 0);
+}
+[class~="form-content"] [class~="dropdown-toggle"][class~="btn-default"]:hover,
+[class~="form-content"] input[type="radio"]:checked + label:before {
+	border-bottom-style: solid;
+}
+[class~="form-content"] [class~="dropdown-toggle"][class~="btn-default"]:hover,
+[class~="form-content"] input[type="radio"]:checked + label:before {
+	border-right-style: solid;
+}
+[class~="form-content"] input:hover {
+	border-image: none;
+}
+[class~="form-content"] input[type="radio"]:checked + label:before,
+[class~="form-content"] [class~="dropdown-toggle"][class~="btn-default"]:hover {
+	border-top-style: solid;
+}
+[class~="form-content"] [class~="page-links"] a:hover:after {
+	background-color: #2a363b;
+}
+[class~="form-content"] input[type="radio"]:checked + label:before {
+	border-left-color: #000;
+}
+[class~="form-content"] input:hover,
+[class~="form-content"] textarea:hover,
+[class~="form-content"] input:focus,
+[class~="form-content"] [class~="dropdown-toggle"][class~="btn-default"]:hover {
+	background-color: #fff;
+}
+[class~="form-content"] input,
+[class~="form-content"] input:focus,
+[class~="form-content"] input:hover,
+[class~="form-content"] [class~="dropdown-toggle"][class~="btn-default"]:hover {
+	color: #000;
+}
+[class~="form-content"] [class~="dropdown-toggle"][class~="btn-default"],
+[class~="form-content"] input {
+	border-bottom-color: rgba(0, 149, 255, 0);
+}
+[class~="form-content"] input[type="radio"]:checked + label:before {
+	border-bottom-color: #000;
+}
+[class~="form-content"] input[type="radio"]:checked + label:before {
+	border-right-color: #000;
+}
+[class~="form-content"] input[type="radio"]:checked + label:before {
+	border-top-color: #000;
+}
+[class~="form-content"] input,
+[class~="form-content"] [class~="dropdown-toggle"][class~="btn-default"] {
+	border-right-color: rgba(0, 149, 255, 0);
+}
+[class~="form-content"] input:focus {
+	border-left-width: 0.75pt;
+}
+[class~="form-content"] input,
+[class~="form-content"]
+	[class~="custom-options"]
+	input[type="checkbox"]:checked
+	+ label {
+	background-color: #f7f7f7;
+}
+[class~="form-content"] input:focus {
+	border-bottom-width: 0.75pt;
+}
+[class~="form-content"] input:focus {
+	border-right-width: 0.75pt;
+}
+[class~="form-content"] input:focus {
+	border-top-width: 0.75pt;
+}
+[class~="form-content"] input:focus {
+	border-left-style: solid;
+}
+[class~="form-content"] input:focus {
+	border-bottom-style: solid;
+}
+[class~="form-content"] [class~="dropdown-toggle"][class~="btn-default"]:hover,
+[class~="form-content"] input[type="radio"]:checked + label:before {
+	border-image: none;
+}
+[class~="form-content"] input,
+[class~="form-content"] [class~="dropdown-toggle"][class~="btn-default"] {
+	border-top-color: rgba(0, 149, 255, 0);
+}
+[class~="form-content"] input:focus,
+[class~="form-content"] input[type="checkbox"]:not(:checked) + label:before {
+	border-right-style: solid;
+}
+[class~="form-content"] input[type="checkbox"]:not(:checked) + label:before,
+[class~="form-content"] input:focus {
+	border-top-style: solid;
+}
+[class~="form-content"] [class~="dropdown-toggle"][class~="btn-default"],
+[class~="form-content"] input {
+	border-image: none;
+}
+[class~="website-logo"] {
+	top: 50px;
+}
+[class~="form-content"] input[type="checkbox"]:not(:checked) + label:before {
+	background: transparent;
+}
+[class~="form-content"] input:focus {
+	border-left-color: #2a363b;
+}
+[class~="form-content"] input[type="checkbox"]:not(:checked) + label:before {
+	border-left-width: 0.020833333in;
+}
+[class~="form-content"] input[type="checkbox"]:not(:checked) + label:before {
+	border-bottom-width: 0.020833333in;
+}
+[class~="form-content"] input:focus {
+	border-bottom-color: #2a363b;
+}
+[class~="form-content"] input[type="checkbox"]:not(:checked) + label:before {
+	border-right-width: 0.020833333in;
+}
+[class~="form-content"]
+	[class~="custom-options"]
+	input[type="radio"]:not(:checked)
+	+ label,
+[class~="form-content"]
+	[class~="custom-options"]
+	input[type="radio"]:checked
+	+ label {
+	color: #606060;
+}
+[class~="form-content"] [class~="dropdown-toggle"][class~="btn-default"]:focus,
+[class~="form-content"] textarea {
+	border-left-width: 0.75pt;
+}
+[class~="form-content"] input:focus {
+	border-right-color: #2a363b;
+}
+[class~="form-content"] input:focus {
+	border-top-color: #2a363b;
+}
+[class~="form-content"] input[type="checkbox"]:not(:checked) + label:before {
+	border-top-width: 0.020833333in;
+}
+[class~="form-content"] [class~="dropdown-toggle"][class~="btn-default"]:focus,
+[class~="form-content"] input[type="checkbox"]:not(:checked) + label:before {
+	border-left-style: solid;
+}
+[class~="form-content"] input[type="checkbox"]:not(:checked) + label:before,
+[class~="form-content"] [class~="dropdown-toggle"][class~="btn-default"]:focus {
+	border-bottom-style: solid;
+}
+[class~="form-content"] input:focus {
+	border-image: none;
+}
+[class~="website-logo"] {
+	left: initial;
+}
+[class~="form-content"] textarea:hover {
+	border-left-width: 0.0625pc;
+}
+[class~="form-content"] [class~="dropdown-toggle"][class~="btn-default"]:focus,
+[class~="form-content"] textarea,
+[class~="form-content"] textarea:hover {
+	border-bottom-width: 0.0625pc;
+}
+[class~="form-content"] textarea:hover,
+[class~="form-content"] [class~="dropdown-toggle"][class~="btn-default"]:focus,
+[class~="form-content"] textarea {
+	border-right-width: 0.0625pc;
+}
+[class~="form-content"] [class~="page-links"] a:focus:after {
+	background-color: #2a363b;
+}
+[class~="form-content"]
+	[class~="custom-options"]
+	input[type="radio"]:not(:checked)
+	+ label,
+[class~="form-content"]
+	[class~="custom-options"]
+	input[type="radio"]:checked
+	+ label,
+[class~="form-content"] textarea,
+[class~="form-content"] [class~="dropdown-toggle"][class~="btn-default"] {
+	background-color: #f7f7f7;
+}
+[class~="img-holder"] [class~="bg"] {
+	background-image: none;
+}
+[class~="form-content"] textarea:hover,
+[class~="form-content"] textarea,
+[class~="form-content"] [class~="dropdown-toggle"][class~="btn-default"]:focus {
+	border-top-width: 0.0625pc;
+}
+[class~="form-content"] textarea,
+[class~="form-content"] textarea:hover {
+	border-left-style: solid;
+}
+[class~="form-content"] input[type="checkbox"]:not(:checked) + label:before {
+	border-left-color: #000;
+}
+[class~="form-content"] textarea,
+[class~="form-content"] textarea:hover {
+	border-bottom-style: solid;
+}
+[class~="form-content"] textarea:hover,
+[class~="form-content"] [class~="dropdown-toggle"][class~="btn-default"]:focus {
+	border-right-style: solid;
+}
+[class~="form-content"] textarea:hover,
+[class~="form-content"] [class~="dropdown-toggle"][class~="btn-default"]:focus {
+	border-top-style: solid;
+}
+[class~="website-logo"] {
+	right: 0.520833333in;
+}
+[class~="form-content"] textarea:hover,
+[class~="form-content"] [class~="dropdown-toggle"][class~="btn-default"]:focus {
+	border-left-color: #2a363b;
+}
+[class~="form-content"] textarea:hover,
+[class~="form-content"] [class~="dropdown-toggle"][class~="btn-default"]:focus {
+	border-bottom-color: #2a363b;
+}
+[class~="form-content"] textarea:hover,
+[class~="form-content"] [class~="dropdown-toggle"][class~="btn-default"]:focus {
+	border-right-color: #2a363b;
+}
+[class~="form-content"] input[type="checkbox"]:not(:checked) + label,
+[class~="form-content"] input[type="checkbox"]:checked + label,
+[class~="form-content"] [class~="other-links"] span,
+[class~="form-content"] textarea:hover,
+[class~="form-content"] input[type="radio"]:not(:checked) + label,
+[class~="form-content"] [class~="dropdown-toggle"][class~="btn-default"]:focus,
+[class~="form-content"] [class~="dropdown-toggle"][class~="btn-default"],
+[class~="form-content"] textarea:focus {
+	color: #000;
+}
+[class~="form-content"] input[type="checkbox"]:not(:checked) + label:before {
+	border-bottom-color: #000;
+}
+[class~="form-content"] input[type="checkbox"]:not(:checked) + label:before {
+	border-right-color: #000;
+}
+[class~="form-content"] textarea:hover,
+[class~="form-content"] [class~="dropdown-toggle"][class~="btn-default"]:focus {
+	border-top-color: #2a363b;
+}
+[class~="form-content"] textarea:hover,
+[class~="form-content"] [class~="dropdown-toggle"][class~="btn-default"]:focus {
+	border-image: none;
+}
+[class~="form-content"] input[type="checkbox"]:not(:checked) + label:before {
+	border-top-color: #000;
+}
+[class~="website-logo"] {
+	bottom: initial;
+}
+[class~="form-content"] input[type="checkbox"]:not(:checked) + label:before {
+	border-image: none;
+}
+.form-content input[type="radio"]:not(:checked) + label:before {
+	background: transparent;
+}
+[class~="form-content"] [class~="form-button"] [class~="ibtn"] {
+	background-color: #2a363b;
+}
+[class~="form-content"] textarea:focus {
+	border-left-width: 0.0625pc;
+}
+[class~="form-content"] textarea:focus {
+	border-bottom-width: 0.0625pc;
+}
+.form-content input[type="radio"]:not(:checked) + label:before {
+	border-left-width: 0.020833333in;
+}
+[class~="form-content"] textarea,
+[class~="form-content"] textarea:focus,
+.form-content input[type="radio"]:not(:checked) + label:before {
+	border-right-style: solid;
+}
+[class~="form-content"] textarea:focus {
+	border-right-width: 0.0625pc;
+}
+[class~="img-holder"] {
+	width: 412.5pt;
+}
+[class~="form-content"] textarea:focus {
+	border-top-width: 0.0625pc;
+}
+.form-content input[type="radio"]:not(:checked) + label:before,
+[class~="form-content"] textarea:focus {
+	border-left-style: solid;
+}
+[class~="form-content"] textarea:focus,
+.form-content input[type="radio"]:not(:checked) + label:before {
+	border-bottom-style: solid;
+}
+.form-content input[type="radio"]:not(:checked) + label:before {
+	border-bottom-width: 0.020833333in;
+}
+.form-content input[type="radio"]:not(:checked) + label:before {
+	border-right-width: 0.020833333in;
+}
+[class~="form-content"] textarea,
+[class~="form-content"] textarea:focus,
+.form-content input[type="radio"]:not(:checked) + label:before {
+	border-top-style: solid;
+}
+[class~="form-holder"] [class~="form-content"] ::-webkit-input-placeholder {
+	color: #000;
+}
+.form-content input[type="radio"]:not(:checked) + label:before {
+	border-top-width: 0.020833333in;
+}
+[class~="form-content"] textarea:focus {
+	border-left-color: #2a363b;
+}
+[class~="form-content"] textarea:focus {
+	border-bottom-color: #2a363b;
+}
+[class~="form-content"] textarea {
+	border-left-color: rgba(0, 149, 255, 0);
+}
+[class~="form-content"] [class~="form-button"] [class~="ibtn"],
+[class~="form-content"] input[type="checkbox"]:checked + label:after,
+[class~="form-content"]
+	[class~="custom-options"]
+	input[type="checkbox"]:checked
+	+ label,
+.form-content input[type="checkbox"]:not(:checked) + label:after {
+	color: #fff;
+}
+[class~="form-holder"] [class~="form-content"] :-moz-placeholder {
+	color: #000;
+}
+[class~="form-content"] textarea:focus {
+	border-right-color: #2a363b;
+}
+[class~="form-content"] textarea:focus {
+	border-top-color: #2a363b;
+}
+[class~="form-content"] [class~="form-button"] [class~="ibtn"] {
+	-webkit-box-shadow: 0 0 0 rgba(80, 182, 255, 0.31);
+}
+[class~="form-content"] textarea:focus {
+	border-image: none;
+}
+.form-content input[type="radio"]:not(:checked) + label:before {
+	border-left-color: #000;
+}
+[class~="form-content"] textarea:focus,
+[class~="form-content"] [class~="dropdown-toggle"][class~="btn-default"]:focus,
+[class~="form-content"] input[type="radio"]:not(:checked) + label:after,
+[class~="form-content"] input[type="radio"]:checked + label:after {
+	background-color: #fff;
+}
+[class~="form-holder"] [class~="form-content"] ::-moz-placeholder {
+	color: #000;
+}
+[class~="form-content"] textarea {
+	border-bottom-color: rgba(0, 149, 255, 0);
+}
+[class~="form-content"] textarea {
+	border-right-color: rgba(0, 149, 255, 0);
+}
+[class~="form-content"]
+	[class~="custom-options"]
+	input[type="checkbox"]:checked
+	+ label,
+[class~="form-content"]
+	[class~="custom-options"]
+	input[type="radio"]:checked
+	+ label {
+	background-color: #57d38c;
+}
+.form-content input[type="radio"]:not(:checked) + label:before {
+	border-bottom-color: #000;
+}
+.form-content input[type="radio"]:not(:checked) + label:before {
+	border-right-color: #000;
+}
+.form-content input[type="radio"]:not(:checked) + label:before {
+	border-top-color: #000;
+}
+[class~="form-holder"] [class~="form-content"] :-ms-input-placeholder {
+	color: #000;
+}
+[class~="form-content"] [class~="form-button"] [class~="ibtn"]:focus,
+[class~="form-content"] [class~="form-button"] [class~="ibtn"]:hover {
+	-webkit-box-shadow: 0 3.75pt 0.375pc rgba(80, 182, 255, 0.31);
+}
+[class~="form-content"] [class~="form-button"] [class~="ibtn"]:hover,
+[class~="form-content"] [class~="form-button"] [class~="ibtn"]:focus {
+	box-shadow: 0 3.75pt 0.0625in rgba(80, 182, 255, 0.31);
+}
+[class~="img-holder"] {
+	background-color: #fafafa;
+}
+.form-content input[type="radio"]:not(:checked) + label:before {
+	border-image: none;
+}
+[class~="form-content"] input[type="radio"]:checked + label,
+[class~="form-content"] input[type="radio"]:checked + label,
+.form-content input[type="checkbox"]:checked + label,
+[class~="form-content"] textarea,
+[class~="form-content"] [class~="other-links"] a,
+[class~="form-content"] [class~="form-group"] {
+	color: #000;
+}
+.form-holder {
+	margin-left: 412.5pt;
+}
+[class~="form-content"]
+	[class~="custom-options"]
+	input[type="radio"]:checked
+	+ label,
+[class~="form-content"]
+	[class~="custom-options"]
+	input[type="checkbox"]:checked
+	+ label {
+	-webkit-box-shadow: 0 3px 8px rgba(74, 230, 142, 0.35);
+}
+[class~="form-content"] textarea {
+	border-top-color: rgba(0, 149, 255, 0);
+}
+[class~="form-content"] textarea {
+	border-image: none;
+}
+[class~="form-control"] ::-webkit-input-placeholder {
+	color: #000;
+}
+[class~="form-content"] [class~="form-items"] {
+	max-width: 21.25pc;
+}
+[class~="form-content"]
+	[class~="custom-options"]
+	input[type="radio"]:checked
+	+ label,
+[class~="form-content"]
+	[class~="custom-options"]
+	input[type="checkbox"]:checked
+	+ label {
+	box-shadow: 0 0.03125in 0.5pc rgba(74, 230, 142, 0.35);
+}
+[class~="form-content"] [class~="form-items"] {
+	text-align: left;
+}
+[class~="form-content"]
+	[class~="custom-options"]
+	input[type="radio"]:checked
+	+ label {
+	color: #fff;
+}
+[class~="form-content"] [class~="form-button"] [class~="ibtn"] {
+	box-shadow: 0 0 0 rgba(80, 182, 255, 0.31);
+}
+[class~="form-control"] :-moz-placeholder {
+	color: #000;
+}
+.form-control ::-moz-placeholder {
+	color: #000;
+}
+[class~="form-control"] :-ms-input-placeholder {
+	color: #000;
+}
+[class~="form-content"] {
+	background-color: #fff;
+}
+.form-content .page-links a:after {
+	background-color: rgba(222, 222, 222, 0.7);
+}
+@media (max-width: 992px) {
+	.form-holder {
+		margin-left: 0;
+	}
+	[class~="website-logo"] {
+		top: 50px;
+	}
+	[class~="website-logo"] {
+		left: 3.125pc;
+	}
+	[class~="website-logo"] {
+		right: initial;
+	}
+	[class~="website-logo"] {
+		bottom: initial;
+	}
+	.website-logo .logo {
+		background-image: url("../images/logo.png");
+	}
+}
