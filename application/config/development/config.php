@@ -378,7 +378,7 @@ $config['encryption_key'] = '785a4062ab84fad161c248b23513ff35';
 |
 */
 $config['sess_driver'] = 'database';
-$config['sess_cookie_name'] = 'sikemas_sess';
+$config['sess_cookie_name'] = 'ibadahku_sess';
 $config['sess_expiration'] = 7200;
 $config['sess_save_path'] = '_sessions';
 $config['sess_match_ip'] = FALSE;
@@ -450,7 +450,7 @@ $config['global_xss_filtering'] = TRUE;
 */
 $config['csrf_protection'] = TRUE;
 $config['csrf_token_name'] = 'tokenization';
-$config['csrf_cookie_name'] = 'sikemas_tokenization';
+$config['csrf_cookie_name'] = 'ibadahku_tokenization';
 $config['csrf_expire'] = 7200;
 $config['csrf_regenerate'] = TRUE;
 $config['csrf_exclude_uris'] = array();
