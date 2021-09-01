@@ -190,6 +190,9 @@ class Siswa extends MX_Controller
 				if (count($data) != 0) {
 					//$insert = $this->db->insert_batch('mahasiswa', $data);
 					$insert = $this->universal->insert_batch($data, 'siswa');
+
+					echo json_encode($insert);
+					die;
 					if ($insert) {
 						$this->notifikasi->success('Data berhasil diimport');
 					} else {
@@ -198,7 +201,9 @@ class Siswa extends MX_Controller
 				} else {
 					$this->notifikasi->error('Gagal import ! Data kosong / sudah ada dalam database');
 				}
+
 				//redirect halaman
+
 				redirect($_SERVER['HTTP_REFERER']);
 			}
 		}
