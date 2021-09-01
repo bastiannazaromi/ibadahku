@@ -191,8 +191,6 @@ class Siswa extends MX_Controller
 					//$insert = $this->db->insert_batch('mahasiswa', $data);
 					$insert = $this->universal->insert_batch($data, 'siswa');
 
-					echo json_encode($insert);
-					die;
 					if ($insert) {
 						$this->notifikasi->success('Data berhasil diimport');
 					} else {
