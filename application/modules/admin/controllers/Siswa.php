@@ -187,8 +187,6 @@ class Siswa extends MX_Controller
 				//delete file from server
 				unlink(FCPATH . 'upload/excel/' . $upload_data['file_name']);
 
-				echo count($data);
-				die;
 				if (count($data) != 0) {
 					//$insert = $this->db->insert_batch('mahasiswa', $data);
 					$insert = $this->universal->insert_batch($data, 'siswa');
